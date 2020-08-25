@@ -1,4 +1,5 @@
 # Q11-뱀
+
 def change_direction(change, d):
     if change == 'D':
         if d == 0:

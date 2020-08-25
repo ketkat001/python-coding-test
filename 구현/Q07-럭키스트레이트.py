@@ -1,5 +1,4 @@
 # Q07-럭키 스트레이트
-
 N = list(map(int, input()))
 result = 'READY'
 left = N[:len(N)//2]

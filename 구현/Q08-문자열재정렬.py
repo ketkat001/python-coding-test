@@ -1,4 +1,5 @@
 # Q08-문자열 재정렬
+
 S = list(input())
 S.sort()
 temp_list = []

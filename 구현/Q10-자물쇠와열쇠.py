@@ -29,7 +29,6 @@ def solution(key, lock):
         key = turn_right(key)
     return False
 
-
 def turn_right(turn_key):
     a = [[] for _ in range(len(turn_key))]
     for l in range(len(turn_key)):

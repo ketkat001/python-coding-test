@@ -28,6 +28,3 @@ def solution(s):
         result_list.append(len(result))
     answer = min(result_list)
     return answer
-
-
-print(solution("aaaa"))
