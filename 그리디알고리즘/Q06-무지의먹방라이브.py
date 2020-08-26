@@ -1,6 +1,4 @@
 # Q06-무지의 먹방 라이브
-
-
 def solution(food_times, k):
     if sum(food_times) <= k:
         return -1
@@ -22,6 +20,7 @@ def solution(food_times, k):
         idx += 1
         if idx == food_length:
             idx = 0
+
     while food_times[idx] == 0:
         idx += 1
         if idx == food_length:
