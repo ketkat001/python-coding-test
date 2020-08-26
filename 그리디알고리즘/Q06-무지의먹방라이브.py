@@ -2,7 +2,6 @@
 def solution(food_times, k):
     if sum(food_times) <= k:
         return -1
-    answer = 0
     food_length = len(food_times)
     while k > food_length:
         times = k // food_length
