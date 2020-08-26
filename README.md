@@ -30,11 +30,25 @@
 
 ### 정의 : 
 
-
-
-
+​	머릿속에 있는 알고리즘을 소스코드로 바꾸는 과정. 코딩을 배운 기간이 짧을수록 구현단계에서 어려움을 겪을 가능성이 높음. 
 
 
 
 ### 문제 : 문제 제목 | 문제 경로
+
+#### Q.07 럭키스트레이트 | [럭키스트레이트 .py](https://github.com/ketkat001/python-coding-test/blob/master/그리디알고리즘/Q01-모험가길드.py)
+
+#### Q.08 문자열 재정렬 | [문자열 재정렬 .py](https://github.com/ketkat001/python-coding-test/blob/master/그리디알고리즘/Q02-곱하기혹은더하기.py)
+
+#### Q.08 문자열 압축 | [문자열 압축.py](https://github.com/ketkat001/python-coding-test/blob/master/그리디알고리즘/Q03-문자열뒤집기.py)
+
+#### Q.10 자물쇠와 열쇠 | [자물쇠와 열쇠.py](https://github.com/ketkat001/python-coding-test/blob/master/그리디알고리즘/Q04-만들수없는금액.py)
+
+#### Q.11 뱀 | [뱀 .py](https://github.com/ketkat001/python-coding-test/blob/master/그리디알고리즘/Q05-볼링공고르기.py)
+
+#### Q.12 기둥과 보 설치 | [기둥과 보 설치py](https://github.com/ketkat001/python-coding-test/blob/master/그리디알고리즘/Q06-무지의먹방라이브.py)
+
+#### Q.13 치킨배달 | [치킨배달.py](https://github.com/ketkat001/python-coding-test/blob/master/그리디알고리즘/Q05-볼링공고르기.py)
+
+#### Q.14 외벽점검 | [외벽점검.py]()
 
