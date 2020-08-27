@@ -36,19 +36,19 @@
 
 ### 문제 : 문제 제목 | 문제 경로
 
-#### Q.07 럭키스트레이트 | [럭키스트레이트 .py](https://github.com/ketkat001/python-coding-test/blob/master/그리디알고리즘/Q01-모험가길드.py)
+#### Q.07 럭키스트레이트 | [럭키스트레이트 .py](https://github.com/ketkat001/python-coding-test/blob/master/구현/Q07-럭키스트레이트.py)
 
-#### Q.08 문자열 재정렬 | [문자열 재정렬 .py](https://github.com/ketkat001/python-coding-test/blob/master/그리디알고리즘/Q02-곱하기혹은더하기.py)
+#### Q.08 문자열 재정렬 | [문자열 재정렬 .py](https://github.com/ketkat001/python-coding-test/blob/master/구현/Q08-문자열재정렬.py)
 
-#### Q.08 문자열 압축 | [문자열 압축.py](https://github.com/ketkat001/python-coding-test/blob/master/그리디알고리즘/Q03-문자열뒤집기.py)
+#### Q.09 문자열 압축 | [문자열 압축.py](https://github.com/ketkat001/python-coding-test/blob/master/구현/Q09-문자열압축.py)
 
-#### Q.10 자물쇠와 열쇠 | [자물쇠와 열쇠.py](https://github.com/ketkat001/python-coding-test/blob/master/그리디알고리즘/Q04-만들수없는금액.py)
+#### Q.10 자물쇠와 열쇠 | [자물쇠와 열쇠.py](https://github.com/ketkat001/python-coding-test/blob/master/구현/Q10-자물쇠와열쇠.py)
 
-#### Q.11 뱀 | [뱀 .py](https://github.com/ketkat001/python-coding-test/blob/master/그리디알고리즘/Q05-볼링공고르기.py)
+#### Q.11 뱀 | [뱀 .py](https://github.com/ketkat001/python-coding-test/blob/master/구현/Q11-뱀.py)
 
-#### Q.12 기둥과 보 설치 | [기둥과 보 설치py](https://github.com/ketkat001/python-coding-test/blob/master/그리디알고리즘/Q06-무지의먹방라이브.py)
+#### Q.12 기둥과 보 설치 | [기둥과 보 설치py](https://github.com/ketkat001/python-coding-test/blob/master/구현/Q12-기둥과보설치.py)
 
-#### Q.13 치킨배달 | [치킨배달.py](https://github.com/ketkat001/python-coding-test/blob/master/그리디알고리즘/Q05-볼링공고르기.py)
+#### Q.13 치킨배달 | [치킨배달.py](https://github.com/ketkat001/python-coding-test/blob/master/구현/Q13-치킨배달.py)
 
-#### Q.14 외벽점검 | [외벽점검.py]()
+#### Q.14 외벽점검 | [외벽점검.py](https://github.com/ketkat001/python-coding-test/blob/master/구현/Q14-외벽점검.py)
 
