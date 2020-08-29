@@ -1,7 +1,7 @@
 N = int(input())
 house = list(map(int, input().split()))
 house.sort()
-if N % 2 == 0:  # 집의 갯수가 짝수일 경우
+if N % 2 == 0:
     answer_1, answer_2 = N // 2 - 1, N // 2
     ans1_sum, ans2_sum = 0, 0
     for i in range(N):
