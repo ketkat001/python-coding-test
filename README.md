@@ -52,3 +52,67 @@
 
 #### Q.14 외벽점검 | [외벽점검.py](https://github.com/ketkat001/python-coding-test/blob/master/구현/Q14-외벽점검.py)
 
+
+
+## DFS  | BFS
+
+### 정의:
+
+- 탐색: 많은 양의 데이터 중에서 원하는 데이터를 찾는 과정. 대표적인 탐색 알고리즘으로 DFS(깊이 우선 탐색) 와 BFS(넓이 우선 탐색)가 있음. DFS와 BFS를 이해하려면 기본 자료구조인 스택과 큐에 대한 이해가 전제되어야 함.
+
+  
+
+- 자료구조: 데이터를 표현하고 관리하고 처리하기 위한 구조. 그 중 스택과 큐는 자료구조의 기초 개념.
+- 재귀함수: DFS와 BFS를 구현하려면 재귀 함수도 이해하고 있어야 한다. 재귀함수란 자기 자신을 다시 호출하는 함수.
+
+
+
+### DFS
+
+#### 정의:
+
+​	DFS는 Depth-First Search, 깊이 우선 탐색이라고 부르며, 그래프에서 깊은 부분을 우선적으로 탐색하는 알고리즘이다.
+
+#### 동작 원리:
+
+- 탐색 시작 노드를 스택에 삽입하고 방문 처리를 한다.
+- 스택의 최상단 노드에 방문하지 않은 인접 노드가 있으면 그 인접 노드를 스택에 넣고 방문 처리를 한다. 방문하지 않은 인접 노드가 없으면 스택에서 최상단 노드를 꺼낸다.
+- 2번의 과정을 더 이상 수행할 수 없을 때까지 반복한다.
+
+*** '방문 처리' 는 스택에 한 번 삽입되어 처리된 노드가 다시 삽입되지 않게 체크하는 것을 의미한다. 방문 처리를 함으로써 각 노드를 한 번씩만 처리할 수 있다.
+
+
+
+### BFS
+
+#### 정의:
+
+​	BFS Breath First Search 알고리즘은 '너비 우선 탐색' 이라는 의미를 가진다. 쉽게 말해 가까운 노드부터 탐색하는 알고리즘이다.
+
+DFS는 가장 멀리 있는 노드를 최우선으로 탐색하는 방식으로 동작한다고 했지만 BFS는 그 반대로 동작한다.
+
+#### 동작 원리:
+
+- 탐색 시작 노드를 큐에 삽입하고 방문 처리를 한다.
+- 큐에서 노드를 꺼내 해당 노드의 인접 노드 중에서 방문하지 않은 노드를 모두 큐에 삽입하고 방문 처리를 한다.
+- 2번의 과정을 더 이상 수행할 수 없을 때까지 반복한다.
+
+
+
+### 문제: 문제 제목 | 문제 경로
+
+#### Q.015 특정 거리의 도시찾기 | [특정 거리의 도시찾기.py](https://github.com/ketkat001/python-coding-test/blob/master/DFS%2C BFS 문제/Q15-특정거리의도시찾기.py)
+
+#### Q.016 연구소 | [연구소.py](https://github.com/ketkat001/python-coding-test/blob/master/DFS%2C BFS 문제/Q16-연구소.py)
+
+#### Q.017 경쟁적 전염 | [경쟁적 전염.py](https://github.com/ketkat001/python-coding-test/blob/master/DFS%2C BFS 문제/Q17-경쟁적전염.py)
+
+#### Q.018  괄호 변환| [괄호 변환.py](https://github.com/ketkat001/python-coding-test/blob/master/DFS%2C BFS 문제/Q18-괄호변환.py)
+
+#### Q.019 연산자 끼워넣기 | [연산자 끼워넣기.py](https://github.com/ketkat001/python-coding-test/blob/master/DFS%2C BFS 문제/Q19-연산자끼워넣기.py)
+
+#### Q.020 감시 피하기 | [감시 피하기.py](https://github.com/ketkat001/python-coding-test/blob/master/DFS%2C BFS 문제/Q20-감시피하기.py)
+
+#### Q.021 인구 이동 | [인구 이동.py](https://github.com/ketkat001/python-coding-test/blob/master/DFS%2C BFS 문제/Q21-인구이동.py)
+
+#### Q.022 블록 이동하기 | [블록 이동하기.py](https://github.com/ketkat001/python-coding-test/blob/master/DFS%2C BFS 문제/Q22-블록이동하기.py)
