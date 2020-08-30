@@ -240,11 +240,11 @@ print(quick_sort(array))
 
 ### 문제 : 문제 제목 | 문제 경로
 
-#### Q.023 국영수 | [국영수](https://github.com/ketkat001/python-coding-test/blob/master/정렬 알고리즘/Q23-국영수.py)
+#### Q.023 국영수 | [국영수](https://github.com/ketkat001/python-coding-test/blob/master/정렬알고리즘/Q23-국영수.py)
 
-#### Q.024 안테나 | [안테나](https://github.com/ketkat001/python-coding-test/blob/master/정렬 알고리즘/Q24-안테나.py)
+#### Q.024 안테나 | [안테나](https://github.com/ketkat001/python-coding-test/blob/master/정렬알고리즘/Q24-안테나.py)
 
-#### Q.025 실패율 | [실패율](https://github.com/ketkat001/python-coding-test/blob/master/정렬 알고리즘/Q25-실패율.py)
+#### Q.025 실패율 | [실패율](https://github.com/ketkat001/python-coding-test/blob/master/정렬알고리즘/Q25-실패율.py)
 
-#### Q.026 카드 정렬하기 | [카드 정렬하기](https://github.com/ketkat001/python-coding-test/blob/master/정렬 알고리즘/Q26-카드정렬하기.py)
+#### Q.026 카드 정렬하기 | [카드 정렬하기](https://github.com/ketkat001/python-coding-test/blob/master/정렬알고리즘/Q26-카드정렬하기.py)
 
