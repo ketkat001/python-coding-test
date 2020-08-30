@@ -101,21 +101,21 @@ DFS는 가장 멀리 있는 노드를 최우선으로 탐색하는 방식으로 
 
 ### 문제: 문제 제목 | 문제 경로
 
-#### Q.015 특정 거리의 도시찾기 | [특정 거리의 도시찾기.py](https://github.com/ketkat001/python-coding-test/blob/master/DFS%2C BFS 문제/Q15-특정거리의도시찾기.py)
+#### Q.015 특정 거리의 도시찾기 | [특정 거리의 도시찾기.py](https://github.com/ketkat001/python-coding-test/blob/master/DFS%2CBFS문제/Q15-특정거리의도시찾기.py)
 
-#### Q.016 연구소 | [연구소.py](https://github.com/ketkat001/python-coding-test/blob/master/DFS%2C BFS 문제/Q16-연구소.py)
+#### Q.016 연구소 | [연구소.py](https://github.com/ketkat001/python-coding-test/blob/master/DFS%2CBFS문제/Q16-연구소.py)
 
-#### Q.017 경쟁적 전염 | [경쟁적 전염.py](https://github.com/ketkat001/python-coding-test/blob/master/DFS%2C BFS 문제/Q17-경쟁적전염.py)
+#### Q.017 경쟁적 전염 | [경쟁적 전염.py](https://github.com/ketkat001/python-coding-test/blob/master/DFS%2CBFS문제/Q17-경쟁적전염.py)
 
-#### Q.018  괄호 변환| [괄호 변환.py](https://github.com/ketkat001/python-coding-test/blob/master/DFS%2C BFS 문제/Q18-괄호변환.py)
+#### Q.018  괄호 변환| [괄호 변환.py](https://github.com/ketkat001/python-coding-test/blob/master/DFS%2CBFS문제/Q18-괄호변환.py)
 
-#### Q.019 연산자 끼워넣기 | [연산자 끼워넣기.py](https://github.com/ketkat001/python-coding-test/blob/master/DFS%2C BFS 문제/Q19-연산자끼워넣기.py)
+#### Q.019 연산자 끼워넣기 | [연산자 끼워넣기.py](https://github.com/ketkat001/python-coding-test/blob/master/DFS%2CBFS문제/Q19-연산자끼워넣기.py)
 
-#### Q.020 감시 피하기 | [감시 피하기.py](https://github.com/ketkat001/python-coding-test/blob/master/DFS%2C BFS 문제/Q20-감시피하기.py)
+#### Q.020 감시 피하기 | [감시 피하기.py](https://github.com/ketkat001/python-coding-test/blob/master/DFS%2CBFS문제/Q20-감시피하기.py)
 
-#### Q.021 인구 이동 | [인구 이동.py](https://github.com/ketkat001/python-coding-test/blob/master/DFS%2C BFS 문제/Q21-인구이동.py)
+#### Q.021 인구 이동 | [인구 이동.py](https://github.com/ketkat001/python-coding-test/blob/master/DFS%2CBFS문제/Q21-인구이동.py)
 
-#### Q.022 블록 이동하기 | [블록 이동하기.py](https://github.com/ketkat001/python-coding-test/blob/master/DFS%2C BFS 문제/Q22-블록이동하기.py)
+#### Q.022 블록 이동하기 | [블록 이동하기.py](https://github.com/ketkat001/python-coding-test/blob/master/DFS%2CBFS문제/Q22-블록이동하기.py)
 
 
 
