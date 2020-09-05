@@ -248,3 +248,25 @@ print(quick_sort(array))
 
 #### Q.026 카드 정렬하기 | [카드 정렬하기](https://github.com/ketkat001/python-coding-test/blob/master/정렬알고리즘/Q26-카드정렬하기.py)
 
+
+
+## 이진탐색 알고리즘
+
+### 정의:
+
+​	**이진 탐색(Binary Search)**은 배열 내부의 데이터가 정렬되어 있어야만 사용할 수 있는 알고리즘이다. 데이터가 무작위일 때는 사용할 수 없지만, 이미 정렬되어 있다면 매우 빠르게 데이터를 찾을 수 있다는 특징이 있다. 이진 탐색은 탐색 범위를 절반씩 좁혀가며 데이터를 탐색하는 특징이 있다.
+
+​	이진 탐색은 위치를 나타내는 변수 3개를 사용하는데, 탐색하고자 하는 범위의 **시작점**, **끝점**, 그리고 **중간점** 이다. **찾으려는 데이터와 중간점 위치에 있는 데이터를 반복적으로 비교**해서 원하는 데이터를 찾는 게 이진 탐색 과정이다.
+
+
+
+### 문제 : 문제 제목 | 문제 경로
+
+#### Q.027 정렬된 배열에서 특정 수의 개수 구하기 | [정렬된 배열에서 특정 수의 개수 구하기](https://github.com/ketkat001/python-coding-test/blob/master/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%EB%AC%B8%EC%A0%9C/%EC%A0%95%EB%A0%AC%EB%90%9C%EB%B0%B0%EC%97%B4%EC%97%90%EC%84%9C%ED%8A%B9%EC%A0%95%EC%88%98%EC%9D%98%EA%B0%9C%EC%88%98%EA%B5%AC%ED%95%98%EA%B8%B0.py)
+
+#### Q.028 고정점 찾기 | [고정점 찾기](https://github.com/ketkat001/python-coding-test/blob/master/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%EB%AC%B8%EC%A0%9C/%EA%B3%A0%EC%A0%95%EC%A0%90%EC%B0%BE%EA%B8%B0.py)
+
+#### Q.029 공유기 설치 | [공유기 설치](https://github.com/ketkat001/python-coding-test/blob/master/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%EB%AC%B8%EC%A0%9C/%EA%B3%B5%EC%9C%A0%EA%B8%B0%EC%B0%BE%EA%B8%B0.py)
+
+#### Q.030 가사 검색 | [가사 검색](https://github.com/ketkat001/python-coding-test/blob/master/%EC%9D%B4%EC%A7%84%ED%83%90%EC%83%89%EB%AC%B8%EC%A0%9C/%EA%B0%80%EC%82%AC%EA%B2%80%EC%83%89.py)
+
